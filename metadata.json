@@ -1,0 +1,6 @@
+{
+  "name": "AccessGap — Making Public Spaces Accessible",
+  "description": "Civic accessibility audit and public-service discovery platform to audit buildings, map accessibility facilities, and coordinate citizen assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
